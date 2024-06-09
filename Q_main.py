@@ -1,4 +1,4 @@
-from src.queue_1 import Queue
+from Queue_src.queue_1 import Queue
 
 
 q = Queue(10) # (front of queue)[](back of queue)
